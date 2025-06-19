@@ -5390,5 +5390,173 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-19 02:28:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-06-19 03:17:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-18 21:52:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-19 02:30:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-18 21:57:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-18 21:52:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-06-18 21:52:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-18 21:57:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-19 02:30:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-19 02:30:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-19 03:07:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-18 21:57:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-19 03:07:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2025-06-18 21:52:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-19 03:08:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-19 03:08:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff": {
+    "criteria": {
+      "has_tuff_slab": "2025-06-18 23:58:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-19 03:07:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-18 21:52:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-19 03:07:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-19 03:08:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-06-19 02:30:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-19 03:07:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-19 02:28:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-06-18 21:57:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-19 02:28:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_blue_bundle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-06-18 21:57:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-06-19 02:30:10 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
